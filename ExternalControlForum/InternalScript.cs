@@ -80,8 +80,8 @@ namespace ExternalControlForum
 
             try 
 	        {
-                Console.WriteLine(DateTime.Now.ToString() + ": Exporting drawing to Layout " + @"C:\Layout_" + varValue + ".pdf");
-			    expt.Export(comps["Layout"], @"C:\Layout_" + varValue + ".pdf");
+                Console.WriteLine(DateTime.Now.ToString() + ": Exporting drawing to Layout " + @"C:\temp\Layout_" + varValue + ".pdf");
+			    expt.Export(comps["Layout"], @"C:\temp\Layout_" + varValue + ".pdf");
 	        }
 	        catch (Exception)
 	        {
