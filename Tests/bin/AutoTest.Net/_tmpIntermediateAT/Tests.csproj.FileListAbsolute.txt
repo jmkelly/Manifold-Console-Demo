@@ -1,0 +1,13 @@
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\_tmpIntermediateAT\Tests.dll
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\_tmpIntermediateAT\Tests.pdb
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\Tests.dll
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\Tests.pdb
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\nunit.framework.dll
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\nunit.mocks.dll
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\pnunit.framework.dll
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\nunit.framework.xml
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\Shouldly.dll
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\Shouldly.pdb
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\ExternalControlForum.exe
+C:\VS_Projects\ExternalControlForum\Tests\bin\AutoTest.Net\ExternalControlForum.pdb

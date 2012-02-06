@@ -1,0 +1,6 @@
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\AutoTest.Net\ExternalControlForum.exe.config
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\AutoTest.Net\_tmpIntermediateAT\ExternalControlForum.exe
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\AutoTest.Net\_tmpIntermediateAT\ExternalControlForum.pdb
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\AutoTest.Net\ExternalControlForum.exe
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\AutoTest.Net\ExternalControlForum.pdb

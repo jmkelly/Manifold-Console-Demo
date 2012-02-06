@@ -1,0 +1,6 @@
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\Debug\ExternalControlForum.exe.config
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\Debug\ExternalControlForum.exe
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\bin\Debug\ExternalControlForum.pdb
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\obj\x86\Debug\ExternalControlForum.exe
+C:\VS_Projects\ExternalControlForum\ExternalControlForum\obj\x86\Debug\ExternalControlForum.pdb
